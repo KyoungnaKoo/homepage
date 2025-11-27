@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#0b2436" />
+  <text x="50" y="100" fill="#7ec8f3" font-size="40">프로젝트 이미지</text>
+  <text x="50" y="160" fill="#9fd3f0" font-size="22">placeholder-2</text>
+</svg>

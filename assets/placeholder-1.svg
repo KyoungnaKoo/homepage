@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#06283d" />
+      <stop offset="1" stop-color="#0b3b5c" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#g)" />
+  <g fill="#9fd3f0" font-family="sans-serif">
+    <text x="50" y="100" font-size="42">프로젝트 이미지</text>
+    <text x="50" y="160" font-size="24" fill="#cfeefb">placeholder-1</text>
+  </g>
+</svg>
